@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyfft"
-version = "1!0.0.1785928806"
+version = "1!0.0.1787193083"
 description = "Spectra, peaks, and ADC metrics for high-speed ADC records"
 authors = [
     { name = "Justin Keogh", email = "github.com@v6y.net" },
